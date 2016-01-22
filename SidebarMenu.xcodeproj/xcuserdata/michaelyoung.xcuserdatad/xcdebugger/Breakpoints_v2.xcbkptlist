@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SidebarMenu/CardsViewController.m"
+            timestampString = "475113849.016691"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SidebarMenu/CardsAndMapViewController.swift"
+            timestampString = "475116340.767511"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SidebarMenu.CardsAndMapViewController.__deallocating_deinit"
+                  moduleName = "SidebarMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelyoung/Documents/GeoBus/GeoBus/SidebarMenu/CardsAndMapViewController.swift"
+                  timestampString = "475115997.459989"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SidebarMenu.CardsAndMapViewController.init (SidebarMenu.CardsAndMapViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; SidebarMenu.CardsAndMapViewController"
+                  moduleName = "SidebarMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelyoung/Documents/GeoBus/GeoBus/SidebarMenu/CardsAndMapViewController.swift"
+                  timestampString = "475115997.460372"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SidebarMenu.CardsAndMapViewController.init (SidebarMenu.CardsAndMapViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;SidebarMenu.CardsAndMapViewController&gt;"
+                  moduleName = "SidebarMenu"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaelyoung/Documents/GeoBus/GeoBus/SidebarMenu/CardsAndMapViewController.swift"
+                  timestampString = "475115997.460573"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
